@@ -1,5 +1,5 @@
 <!--Banner12388774567891586077805711-->
-![Zulqar Nain Banner Image](./banner.png)
+![Muhammad Shafaat Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -8,7 +8,7 @@
 
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Zulqar Nain! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Muhammad Shafaat! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
