@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 📽 I'm Currently working as a Software Engineer.
 - 🙋‍♂️ Ask me about React, UI/UX, design systems, performance tuning, and building interactive web apps — these are my jam! Feel free to reach out and talk frontend with me.
-- ❤ Experienced in version control systems like Git and collaboration through GitHub, fast API, Axios, UI/UX and state management.
+- ❤ Experienced in React, Axios, UI/UX, state management like (redux, redux-toolkit) and version control systems like Git and collaboration through GitHub,.
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
