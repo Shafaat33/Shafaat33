@@ -13,7 +13,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Frontend Developer with 6+ years of experience building responsive, user-focused web applications using React. I thrive on turning imagination and user requirements into real, interactive experiences. I love working with modern UI frameworks, component-based architectures, REST APIs, and performance-optimized design systems.</p>
+<p align="left">I am a Software Engineer with 6+ years of experience building responsive, user-focused web applications using React. I thrive on turning imagination and user requirements into real, interactive experiences. I love working with modern UI frameworks, component-based architectures, REST APIs, and performance-optimized design systems.</p>
 
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
