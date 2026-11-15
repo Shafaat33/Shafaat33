@@ -1,5 +1,6 @@
 <!--Banner12388774567891586077805711-->
-![Muhammad Shafaat Banner Image](./banner.png)
+![Muhammad Shafaat Banner Image](<img width="2048" height="512" alt="full-stack-git" src="https://github.com/user-attachments/assets/63819070-725c-4925-860f-762b3787320d" />
+)
 
 <!--Night Owl image-->
 <div>
