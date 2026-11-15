@@ -1,5 +1,5 @@
 <!--Banner12388774567891586077805711-->
-![Muhammad Shafaat Banner Image](/.full-stack-git.jpeg)
+![Muhammad Shafaat Banner Image](./full-stack-git.jpeg)
 
 <!--Night Owl image-->
 <div>
